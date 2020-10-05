@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Kogane
 {
-	public static class RectTransformUtils
+	public static class RectTransformInternal
 	{
 		public static DrivenTransformProperties GetDrivenProperties( RectTransform self )
 		{
